@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.main {
+    font-size: 3.2vh;
+    font-family: 'Poppins', sans-serif;
+    margin: 1vh;
+    padding: 30px;
+}
+
+.head {
+    color: #094b64;
+    font-family: 'Poppins', sans-serif;
+    font-weight: bold;
+    text-align: center;
+}
+
+.card1 {
+    background-color: lightblue;
+    color: #094b64;
+    text-align: center;
+    padding: 10px;
+    font-size: 3vh;
+}
+
+.image {
+    height: 25vh;
+    width: 30vh;
+}
